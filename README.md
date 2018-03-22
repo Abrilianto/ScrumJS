@@ -1,3 +1,3 @@
 # ScrumJS
 
-This will later filled with detail about bla bla bla
+This will later filled with detail about bla bla bla bla
